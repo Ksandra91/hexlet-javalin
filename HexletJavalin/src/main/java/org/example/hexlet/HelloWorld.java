@@ -12,4 +12,5 @@ public class HelloWorld {
         app.get("/", ctx -> ctx.result("Hello World"));
         app.start(7070); // Стартуем веб-сервер
     }
+    fncn
 }
